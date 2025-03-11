@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://github.com/kovilapu-bharat/kovilapu-bharat/blob/main/anime%20gif.gif">
 
 # 👋 Hello, I am Bharat Kumar Kovilapu! 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Bitcoin+Dev+%E2%9C%A8;Rust+%2B+Next.js+Ninja;Surpassing+My+Limits+%26+Going+Beyond!)
